@@ -1,2 +1,0 @@
-# nextJs
-Created with CodeSandbox
